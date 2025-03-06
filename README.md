@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nithish Kannan</h1>
-- 🔭 I’m currently working on **Productive Task Manager**
+🔭 I’m currently working on **Productive Task Manager**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
